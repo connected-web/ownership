@@ -36,3 +36,4 @@ connected-web/elda-ai-memory
 connected-web/poll-status-endpoint
 connected-web/web-components
 connected-web/connected-web
+connected-web/jumper
