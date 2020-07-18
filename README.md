@@ -10,4 +10,4 @@ Ownership tools for managing and maintaining the public repositories attached to
 
 Raises PRs across repos: 
 
-- `julia -r repos.txt -s audit`
+- `julia -r repos.txt -s audit -t ownership`
