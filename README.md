@@ -17,3 +17,9 @@ Raises PRs across multiple repos:
 Raises PRs across multiple repos: 
 
 - `jumper -l repolist.txt -s rebuild -r ownership`
+
+## Check repos for a PR Checker (Github Workflow) and create if not found
+
+Raises PRs across multiple repos: 
+
+- `jumper -l repolist.txt -s pr-checker -r ownership`
