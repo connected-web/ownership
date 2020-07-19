@@ -25,7 +25,7 @@ connected-web/settimeout-tester
 connected-web/node-dax
 connected-web/grammarlist
 connected-web/playerbot
-connected-web/awsls2.json
+connected-web/awsls2json
 connected-web/product-monitor.plugin.local-auth
 connected-web/product-monitor.plugin.auth-header
 connected-web/product-monitor.plugin.github-auth
