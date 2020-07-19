@@ -23,3 +23,9 @@ Raises PRs across multiple repos:
 Raises PRs across multiple repos: 
 
 - `jumper -l repolist.txt -s pr-checker -r ownership`
+
+## Check repos that use linters; upgrade the linter, and fix any new linting issues
+
+Raises PRs across multiple repos: 
+
+- `jumper -l repolist.txt -s linting -r ownership`
