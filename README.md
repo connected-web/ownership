@@ -29,3 +29,8 @@ Raises PRs across multiple repos:
 Raises PRs across multiple repos: 
 
 - `jumper -l repolist.txt -s linting -r ownership`
+
+## Wishlist
+
+- Automatically generate `repolist.txt` by looking at a github organisation or user.
+- Make a user interface to run these commands
